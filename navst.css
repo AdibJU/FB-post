@@ -1,0 +1,41 @@
+
+.body{
+    font-family: 'Young Serif', serif;
+}
+.nn{
+    color: rgb(201, 18, 57);
+}
+
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width:80%;
+    margin: 0 auto;
+    background-color: black;
+    color: whitesmoke;
+}
+
+
+.mid{
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
+
+.name{
+    margin-left: 20px;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+
+.last{
+    border: 1px solid rgb(201, 18, 57);;
+    padding:10px 40px;
+    border-radius: 50px;
+    background-color: rgb(201, 18, 57);
+    margin-right: 20px;
+}
